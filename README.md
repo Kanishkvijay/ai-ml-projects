@@ -42,7 +42,7 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 
 ---
 
-## ⚙️ Tech Stack  
+## Tech Stack  
 **Languages:** Python  
 **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch  
 **Tools:** Jupyter, Colab, Docker, Git  
@@ -55,7 +55,7 @@ To build an **AI repository** that enables engineers to move from learning theor
 
 ---
 
-## 👨‍💻 Author  
+## Author  
 **KANISHK VIJAY A T**  
 AI Engineer  
 
