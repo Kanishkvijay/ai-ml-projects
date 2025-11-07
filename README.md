@@ -17,7 +17,7 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 
 ---
 
-## Current Coverage  
+## Topics Covered  
 
 ### 1️⃣ Foundation Layer – Math & Programming
 
