@@ -59,7 +59,7 @@ To build an **AI repository** that enables engineers to move from learning theor
 **KANISHK VIJAY A T**  
 AI Engineer  
 
-[🔗 Medium](https://medium.com/@kanishkvijayofficial) • [💼 LinkedIn](https://www.linkedin.com/in/kanishkvijayofficial) • [🐙 GitHub](https://github.com/kanishkvijayofficial)
+[🔗 Medium](https://medium.com/@kanishkvijayofficial) • [🔗 LinkedIn](https://www.linkedin.com/in/kanishkvijayofficial) • [🔗 GitHub](https://github.com/kanishkvijayofficial)
 
 ---
 
