@@ -63,4 +63,4 @@ AI Engineer
 
 ---
 
-### 🧭 “From algorithms to autonomous intelligence — engineered for real-world impact.”  
+### “From algorithms to autonomous intelligence — engineered for real-world impact.”  
