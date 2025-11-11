@@ -41,7 +41,13 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 - [📘 Dimensionality Reduction](https://medium.com/@kanishkvijayofficial/dimensionality-reduction-in-machine-learning-9385b158d7f9) 
 - [📘 Model Evaluation](https://medium.com/@kanishkvijayofficial/model-evaluation-in-machine-learning-10255e1baf4c)
 - [📘 Bias-Variance tradeoff](https://medium.com/@kanishkvijayofficial/bias-variance-tradeoff-overfitting-underfitting-in-machine-learning-35151e03220a)
+  
 ---
+
+### 3️⃣ Deep Learning & Modern AI  
+
+**Neural Networks**  
+- [📘 Perceptrons, MLPs](https://medium.com/@kanishkvijayofficial/neural-networks-perceptrons-mlps-6095c2ce00a0)  
 
 ## Tech Stack  
 **Languages:** Python  
