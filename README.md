@@ -47,7 +47,8 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 ### 3️⃣ Deep Learning & Modern AI  
 
 **Neural Networks**  
-- [📘 Perceptrons, MLPs](https://medium.com/@kanishkvijayofficial/neural-networks-perceptrons-mlps-6095c2ce00a0)  
+- [📘 Perceptrons, MLPs](https://medium.com/@kanishkvijayofficial/neural-networks-perceptrons-mlps-6095c2ce00a0)
+- [📘 Backpropagation](https://medium.com/@kanishkvijayofficial/neural-networks-and-backpropagation-caef95a1e11a)  
 
 ## Tech Stack  
 **Languages:** Python  
