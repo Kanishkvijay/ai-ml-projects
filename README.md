@@ -57,8 +57,7 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 ## Tech Stack  
 **Languages:** Python  
 **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch  
-**Tools:** Jupyter, Colab, Docker, Git  
-**(Upcoming)** Cloud & MLOps: MLflow, FastAPI, LangChain, AWS/GCP  
+**Tools:** Jupyter, Colab, Docker, Git
 
 ---
 
