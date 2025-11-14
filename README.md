@@ -50,6 +50,7 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 - [📘 Perceptrons, MLPs](https://medium.com/@kanishkvijayofficial/neural-networks-perceptrons-mlps-6095c2ce00a0)
 - [📘 Backpropagation](https://medium.com/@kanishkvijayofficial/neural-networks-and-backpropagation-caef95a1e11a)  
 - [📘 Regularization](https://medium.com/@kanishkvijayofficial/neural-networks-and-regularization-07021d75d7ca)
+- [📘 Optimizers](https://medium.com/@kanishkvijayofficial/neural-networks-and-optimizers-c8a117e3dabc)
 
 ## Tech Stack  
 **Languages:** Python  
