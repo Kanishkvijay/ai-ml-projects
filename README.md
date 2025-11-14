@@ -52,6 +52,8 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 - [📘 Regularization](https://medium.com/@kanishkvijayofficial/neural-networks-and-regularization-07021d75d7ca)
 - [📘 Optimizers](https://medium.com/@kanishkvijayofficial/neural-networks-and-optimizers-c8a117e3dabc)
 
+---
+
 ## Tech Stack  
 **Languages:** Python  
 **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch  
