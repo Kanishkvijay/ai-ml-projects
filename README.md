@@ -53,7 +53,7 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 - [📘 Optimizers](https://medium.com/@kanishkvijayofficial/neural-networks-and-optimizers-c8a117e3dabc)
 
 **Computer Vision**  
-- [📘 CNNs (LeNet, AlexNet, VGG, ResNet, EfficientNet)](https://medium.com/@kanishkvijayofficial/computer-vision-and-cnns-lenet-alexnet-vgg-resnet-efficientnet-162f8e71a61e)
+- [📘 CNN (LeNet, AlexNet, VGG, ResNet, EfficientNet)](https://medium.com/@kanishkvijayofficial/computer-vision-and-cnns-lenet-alexnet-vgg-resnet-efficientnet-162f8e71a61e)
 
 ---
 
