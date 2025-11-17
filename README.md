@@ -54,6 +54,7 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 
 **Computer Vision**  
 - [📘 CNNs (LeNet, AlexNet, VGG, ResNet, EfficientNet)](https://medium.com/@kanishkvijayofficial/computer-vision-and-cnns-lenet-alexnet-vgg-resnet-efficientnet-162f8e71a61e)
+- [📘 Transfer Learning](https://medium.com/@kanishkvijayofficial/transfer-learning-97aa9f0881c1)
 
 ---
 
