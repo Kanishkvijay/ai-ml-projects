@@ -58,6 +58,9 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 - [📘 Object Detection](https://medium.com/@kanishkvijayofficial/object-detection-yolo-faster-r-cnn-8cb982bae3aa)
 - [📘 Segmentation](https://medium.com/@kanishkvijayofficial/image-segmentation-b8261fbfcd18)
 
+**Natural Language Processing**  
+- [📘 Word embeddings](https://medium.com/@kanishkvijayofficial/natural-language-processing-nlp-word-embeddings-cb5fa740a39a)
+
 ---
 
 ## Tech Stack  
