@@ -60,6 +60,7 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 
 **Natural Language Processing**  
 - [📘 Word embeddings](https://medium.com/@kanishkvijayofficial/natural-language-processing-nlp-word-embeddings-cb5fa740a39a)
+- [📘 RNNs, LSTMs, GRUs](https://medium.com/@kanishkvijayofficial/understanding-rnns-lstms-and-grus-d3020325ac2a)
 
 ---
 
