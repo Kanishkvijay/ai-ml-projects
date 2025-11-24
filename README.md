@@ -62,6 +62,7 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 - [📘 Word embeddings](https://medium.com/@kanishkvijayofficial/natural-language-processing-nlp-word-embeddings-cb5fa740a39a)
 - [📘 RNNs, LSTMs, GRUs](https://medium.com/@kanishkvijayofficial/understanding-rnns-lstms-and-grus-d3020325ac2a)
 - [📘 Attention mechanism, Transformers](https://medium.com/@kanishkvijayofficial/attention-mechanism-transformers-b85b2c66b845)
+- [📘 BERT](https://medium.com/@kanishkvijayofficial/bert-bidirectional-encoder-representations-from-transformers-e53408acb18d)
 
 ---
 
