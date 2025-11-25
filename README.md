@@ -64,7 +64,7 @@ Each topic includes **in-depth Medium blogs** for conceptual clarity and intuiti
 - [📘 Attention mechanism, Transformers](https://medium.com/@kanishkvijayofficial/attention-mechanism-transformers-b85b2c66b845)
 - [📘 BERT](https://medium.com/@kanishkvijayofficial/bert-bidirectional-encoder-representations-from-transformers-e53408acb18d)
 - [📘 GPT](https://medium.com/@kanishkvijayofficial/gpt-a-complete-in-depth-technical-guide-with-real-world-applications-7b5296d8a959)
-- 
+
 ---
 
 ## Tech Stack  
